@@ -109,3 +109,5 @@ int main()
 	int seconds = time % 60;
 	cout << "THE ESTIMATED DOWNLOAD TIME IS " << hours << " HOURS, " << minutes << " MINUTES, AND " << seconds << " SECONDS." << endl;
 }
+
+// VOLUNTEER AUTUMN, all rights reserved
